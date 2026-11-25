@@ -15,4 +15,5 @@ C# · ASP.NET Core · Entity Framework Core · SQL Server · Clean Architecture 
 ## Contact
 
 - Email: mahmoudgoda322@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mahmoud-gouda-44b448340/
 - CV available on request
